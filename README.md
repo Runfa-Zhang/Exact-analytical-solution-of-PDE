@@ -1,7 +1,7 @@
 # Exact-analytical-solution-of-PDE via Neural Network
 # PDE解析解通过神经网络方法
 
-```
+
 [1] R.F. Zhang, M.C. Li, M. Albishari, F.C. Zheng, Z.Z. Lan, Generalized lump solutions, classical lump solutions and rogue waves of the (2+1)-dimensional Caudrey Dodd Gibbon Kotera Sawada like equation, Appl. Math. Comput. 2021, 403:126201  https://doi.org/10.1016/j.amc.2021.126201 (SCI中科院1区)
 
 [2] R.F. Zhang, M.C. Li, H.M. Yin. Rogue wave solutions and the bright and dark solitons of the (3+1)-dimensional Jimbo–Miwa equation. Nonlinear Dyn. 2021, 103: 1071–1079 https://doi.org/10.1007/s11071-020-06112-5 (SCI中科院小类1区)
@@ -11,7 +11,7 @@
 [4] R.F. Zhang, S.D. Bilige. Fractal solitons, arbitrary function solutions, exact periodic wave and breathers for a nonlinear partial differential equation by using bilinear neural network method. Journal of Systems Science and Complexity 2021 https://doi.org/10.1007/s11424-020-9392-5 (SCI中科院2区)
 
 [5] R.F. Zhang, S.D. Bilige, J.G. Liu, M.C. Li. Bright-dark solitons and interaction phenomenon for p-gBKP equation by using bilinear neural network method. Phys. Scr. 2020 96:055224 https://doi.org/10.1088/1402-4896/abd3c3 (SCI中科院3区) 
-```
+
 
 ```
 @Article{ZRF2021AMC,
